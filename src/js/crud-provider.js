@@ -34,7 +34,7 @@ const deleteUsuario = async ( id ) => {
     const resp = await fetch( `${ crudUrl }/${ id }`, {
         method: 'DELETE',
     });
-    return resp.ok ? 'Borrado' : 'No se pudo eliminar';
+    return resp.ok ? true : false;
 }
 
 export{
