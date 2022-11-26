@@ -15,7 +15,7 @@ http Forms
 ## Demo
 [A joke?](https://pabloadbes.github.io/http-crud-provider/)
 ## Preview
-![Preview](/docs/assets/images/http_crud_provider_preview.png)
+![Preview](/docs/assets/img/http_crud_provider_preview.png)
 ## Notes
 Remember to rebuild Node modules:
 ```
