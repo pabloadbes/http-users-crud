@@ -23,7 +23,6 @@ const radioUpdate = document.querySelector('#radioUpdate');
 const radioDelete = document.querySelector('#radioDelete');
 
 const formChecks = document.getElementsByName('radioCRUD');
-console.log(formChecks);
 
 //eventos
 
