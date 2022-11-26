@@ -1,3 +1,4 @@
+import regeneratorRuntime from "regenerator-runtime";
 import { init } from './js/usuarios-page'
 import * as CRUD from "./js/crud-provider";
 
