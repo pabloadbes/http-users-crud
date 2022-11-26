@@ -13,7 +13,7 @@ Provider Design Pattern
 http Forms
 ```
 ## Demo
-[A joke?](https://pabloadbes.github.io/http-crud-provider/)
+[Try it!](https://pabloadbes.github.io/http-crud-provider/)
 ## Preview
 ![Preview](/docs/assets/img/http_crud_provider_preview.png)
 ## Notes
